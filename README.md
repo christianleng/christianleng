@@ -49,3 +49,8 @@
 <img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
 <br />
+
+---
+
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianleng&show_icons=true&theme=radical)
+
