@@ -1,6 +1,6 @@
 # Christian Leng
 
-` ** Senior Engineer Frontnend ** `
+` Senior Frontend Engineer `
 
 - 🔭 I’m currently working on [House Price](https://github.com/christianleng/house_price_frontend)
 
