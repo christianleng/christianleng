@@ -1,6 +1,4 @@
-# Christian Leng
-
-` Senior Frontend Engineer `
+# Christian Leng - Senior Frontend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/christian-leng/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/christianleng)
