@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Christian Leng</h1>
-<h3 align="center">Senior Frontend Engineer</h3>
+# Christian Leng
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christianleng&label=Profile%20views&color=0e75b6&style=flat" alt="christianleng" /> </p>
+` ** Senior Engineer Frontnend ** `
 
 - 🔭 I’m currently working on [House Price](https://github.com/christianleng/house_price_frontend)
 
