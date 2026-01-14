@@ -11,7 +11,7 @@
 
 ## About Me
 - Passionate developer focused on problem-solving and clean code.
-- Active on GitHub, LeetCode, learn, and share knowledge.
+- Active on GitHub and LeetCode. Curious by nature, I love learning new things.
 - Strong interest in algorithms, data structures, and software engineering best practices.
 - Continuously improving my skills through coding challenges and real-world projects.
 
@@ -51,7 +51,18 @@
 <br />
 
 ---
-### Stats and dev activity
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianleng&show_icons=true&theme=radical)
 
-[![christianleng's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianleng)](https://github.com/christianleng/github-readme-stats)
+## ⭐️ Projects
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/christianleng/house-price-client"><b>🏠 House Price Client</b></a></td>
+      <td>React 19 frontend with feature-based architecture, TanStack Query, infinite scroll, and Tailwind CSS v4 custom design system. Future ML integration for price prediction.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/christianleng/house-price-api"><b>⚡ House Price API</b></a></td>
+      <td>FastAPI backend with JWT auth, RBAC, PostgreSQL, image processing. Dockerized with automated seeding for reproducible development.</td>
+    </tr>
+  </tbody>
+</table>
