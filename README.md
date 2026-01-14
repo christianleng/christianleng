@@ -2,6 +2,21 @@
 
 ` Senior Frontend Engineer `
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/christian-leng/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/christianleng)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange?logo=leetcode)](https://leetcode.com/u/lengchristian/)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?logo=stackoverflow)](https://stackoverflow.com/users/29320082/christian-l)
+
+---
+
+## About Me
+- Passionate developer focused on problem-solving and clean code.
+- Active on GitHub, LeetCode, learn, and share knowledge.
+- Strong interest in algorithms, data structures, and software engineering best practices.
+- Continuously improving my skills through coding challenges and real-world projects.
+
+---
+
 - 🔭 I’m currently working on [House Price](https://github.com/christianleng/house_price_frontend)
 
 - 🌱 I’m currently learning **FastAPI, System Design**
